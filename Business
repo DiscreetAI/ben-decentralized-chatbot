@@ -1,0 +1,34 @@
+Value we're providing / how to convince people to allow model to train on their facebook data:
+1) Time saved - users can have a personalized bot trained on their specific chat history, which could then br their personal assistant 
+2) Entertaining - users play a game to predict whether they are chatting to the bot or their friend
+3) Potential $ - the most successful gamers receive awards based on current standings
+
+Business model:
+Users and bot are playing for tokens.
+User stakes how many tokens it wants to bet in any time period (token accrue continuously)
+"Winning" means they correctly identify whether its the bot or the human, and if so they win.
+
+Dialogue/interface might go something like this:
+- User [Henry = human] opens Facebook messenger / Open YC-ChatBot
+- Start chatting = playing the game
+
+[INITIATE GAME]
+- Bot: Hi Henry, you are chatting with [Friend's name] (Or are you?!)           [note: this could be the AI or the actual friend]
+- Bot: You're token balance is 1000, how many token's would you like to bet?
+- Henry: 10
+- Bot: Chat away 
+- Henry: Hey man, what did you do yesterday?
+- Bot: I went swimming. You?
+[END]
+- Bot: Was that me or my AI alter-ego?
+- Henry: You
+- Bot: Correct! You just won 20 tokens and your balance is now 1,020 tokens!
+
+[NEW GAME]
+ - Bot: You're now chatting with [different friends name]
+ ......
+ .....
+ 
+ Incentives:
+ - Users are incentivised to continue playing the game = improving the AI
+ - If they want they can just let the AI take over, at the risk of the token balance falling
